@@ -3,5 +3,5 @@ STATUS REPORT
 this is _akanksha_, i am __editing__ this file :/
 
 ![Image][1]
-⋮
-[1]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.health.harvard.edu%2Fheart-health%2Fvegetable-of-the-month-avocado&psig=AOvVaw01rXfXBjFM62BdsFsdMtWX&ust=1641929421436000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiG5_H1p_UCFQAAAAAdAAAAABAI
+
+[1]: https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/08/Stocksy_txpa387b205vt9300_Medium_3358820_header-1024x575.jpg?w=1155&h=1528
